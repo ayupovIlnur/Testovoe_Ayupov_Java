@@ -9,7 +9,5 @@ public class Task_2 {
         } else {
             System.out.println("Нет такого имени");
         }
-
-
     }
 }

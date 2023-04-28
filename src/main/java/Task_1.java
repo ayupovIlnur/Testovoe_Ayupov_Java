@@ -7,7 +7,5 @@ public class Task_1 {
         if (number > 7) {
             System.out.println("Привет");
         }
-
-
     }
 }
